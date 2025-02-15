@@ -1,14 +1,5 @@
-Python
 numpy
 pandas
-scikit-learn
-spacy
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
-tensorflow  # or torch if you're using PyTorch
-matplotlib
-seaborn
-nltk
-joblib
-Flask  # for API deployment
-gunicorn  # for deploying on Render or Heroku
-streamlit  # for creating a web app if using Streamlit
+tensorflow
+gunicorn 
+streamlit 
